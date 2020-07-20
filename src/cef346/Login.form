@@ -149,9 +149,9 @@
                           </Group>
                           <Group type="103" groupAlignment="1" max="-2" attributes="0">
                               <Group type="102" alignment="0" attributes="0">
-                                  <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jButton2" min="-2" pref="67" max="-2" attributes="0"/>
                                   <EmptySpace max="32767" attributes="0"/>
-                                  <Component id="jButton1" min="-2" pref="48" max="-2" attributes="0"/>
+                                  <Component id="jButton1" min="-2" pref="70" max="-2" attributes="0"/>
                               </Group>
                               <Component id="Logusername" alignment="0" pref="172" max="32767" attributes="0"/>
                               <Component id="Logpassword" alignment="0" max="32767" attributes="0"/>
